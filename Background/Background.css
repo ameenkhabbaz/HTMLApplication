@@ -1,0 +1,15 @@
+#p_example1 {
+	color: white;
+	font: 25px/30px Georgia, serif;
+			}
+
+#p_example2 {
+	color: #DDC7FF;
+	font: 20px/30px Futura, serif;
+			}
+			
+body {
+	background-image: url(Skyline2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
